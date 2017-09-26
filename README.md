@@ -25,7 +25,7 @@ Kits list:
     1 x Infrared receive sensor module
     1 x Analogy hall sensor module
     1 x Magic ring module
-    1 x Rotate encode module
+    1 x [Rotate encode module](./ejemplos/Encoder/Encoder.ino)
     1 x Light break sensor module
     1 x Finger pulse sensor module
     1 x Magnetic spring module
