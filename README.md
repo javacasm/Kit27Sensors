@@ -31,7 +31,7 @@ Tilt switch
 
 [RGB LED](./ejemplos/ledrgb/ledrgb.ino)
 
-Infrared transmit
+[Infrared transmit](./ejemplos/ir_emisor/ir_emisor.ino)
 
 RGB colorful LED
 
@@ -41,7 +41,7 @@ Colorful auto flash
 
 Magnet-ring sensor
 
-Hall sensor
+[Hall sensor](./ejemplos/sensor_hall/sensor_hall.ino)
 
 Infrared receive sensor
 
