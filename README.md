@@ -2,7 +2,7 @@
 
 **IMPORTANTE**
 
-Las señales de GND, VCC y señal de cada módulo están en muchas ocasiones mal representadas en la PXB. **como norma general ignora los iconos del PCB y fijate en las soldaduras- La soldadura cuadrada será generalmente la señal, el pin central VCC y el opuesto a la soldadura cuadrada GND**
+Las señales de GND, VCC y señal de cada módulo están en muchas ocasiones mal representadas en la PCB. **como norma general ignora los iconos del PCB y fijate en las soldaduras- La soldadura cuadrada será generalmente la señal, el pin central VCC y el opuesto a la soldadura cuadrada GND**
 
 
 [Kit comprado en Banggood por 7,5$](https://www.banggood.com/Geekcreit-37-In-1-Sensor-Module-Board-Set-Kit-For-Arduino-p-1137051.html)
