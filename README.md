@@ -47,6 +47,6 @@ Kits list:
     1 x High sensitive voice sensor module
     1 x Humidity sensor module
     1 x Joystick PS2 module
-    1 x Touch sensor module
+    1 x Touch sensor module - **CUIDADO** Este modulo parecer tener una pata del sensor suela pero **es así**
 
 ![Sensores](./images/Sensores.jpg)
