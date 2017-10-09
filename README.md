@@ -83,6 +83,6 @@ Humidity sensor
 
 Joystick PS2
 
-Touch sensor
+Touch sensor **CUIDADO** Este modulo parecer tener una pata del sensor suela pero **es así**
 
 ![Sensores](./images/Sensores.jpg)
